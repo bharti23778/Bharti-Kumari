@@ -1,0 +1,7 @@
+{
+  "name": "Students Trust",
+  "description": "Discover opportunities. Build your future. One trusted platform for college and university students to find verified internships, scholarships, fellowships, hackathons, and research programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
