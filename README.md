@@ -1,8 +1,8 @@
-# OpportunityHub
+# Students Trust
 
 ### Bridging the Opportunity Gap for Students
 
-OpportunityHub is a student-focused platform that brings internships, scholarships, hackathons, research opportunities, fellowships, competitions, and workshops into one organized and personalized platform.
+Students Trust is a student-focused platform that brings internships, scholarships, hackathons, research opportunities, fellowships, competitions, and workshops into one organized and personalized platform.
 
 ## 🚨 Problem
 
@@ -17,8 +17,7 @@ Because information is scattered, students may:
 - Have difficulty knowing whether a shared opportunity is trustworthy
 
 ## 💡 Our Solution
-
-OpportunityHub creates a centralized platform where students can discover, filter, save, verify, and track opportunities that are relevant to them.
+Students trust creates a centralized platform where students can discover, filter, save, verify, and track opportunities that are relevant to them.
 
 ## ✨ Key Features
 
@@ -31,7 +30,7 @@ OpportunityHub creates a centralized platform where students can discover, filte
 - 📩 Turn a Forward into an Opportunity
 - Students can paste an opportunity forwarded through WhatsApp or Telegram.
 
-OpportunityHub converts unstructured information into a structured opportunity containing details such as:
+Students Trust converts unstructured information into a structured opportunity containing details such as:
 
 - Opportunity title
 - Organization
