@@ -2,11 +2,11 @@
 
 ### Bridging the Opportunity Gap for Students
 
-Students Trust is a student-focused platform that brings internships, scholarships, hackathons, research opportunities, fellowships, competitions, and workshops into one organized and personalized platform.
+Student Trust is a student-focused platform that brings internships, scholarships, hackathons, research opportunities, fellowships, competitions, and workshops into one organized and personalized platform.
 
 ## 🚨 Problem
 
-Students discover opportunities through WhatsApp groups, Telegram channels, seniors, faculty, clubs, college cells, and different websites.
+Student discover opportunities through WhatsApp groups, Telegram channels, seniors, faculty, clubs, college cells, and different websites.
 
 Because information is scattered, students may:
 
@@ -17,7 +17,7 @@ Because information is scattered, students may:
 - Have difficulty knowing whether a shared opportunity is trustworthy
 
 ## 💡 Our Solution
-Students trust creates a centralized platform where students can discover, filter, save, verify, and track opportunities that are relevant to them.
+Student trust creates a centralized platform where students can discover, filter, save, verify, and track opportunities that are relevant to them.
 
 ## ✨ Key Features
 
@@ -30,7 +30,7 @@ Students trust creates a centralized platform where students can discover, filte
 - 📩 Turn a Forward into an Opportunity
 - Students can paste an opportunity forwarded through WhatsApp or Telegram.
 
-Students Trust converts unstructured information into a structured opportunity containing details such as:
+Student Trust converts unstructured information into a structured opportunity containing details such as:
 
 - Opportunity title
 - Organization
