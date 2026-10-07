@@ -1,4 +1,4 @@
-# Students Trust
+# Student Trust
 
 ### Bridging the Opportunity Gap for Students
 
